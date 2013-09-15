@@ -1,1 +1,3 @@
 Hello, GIT
+
+Hello, user
